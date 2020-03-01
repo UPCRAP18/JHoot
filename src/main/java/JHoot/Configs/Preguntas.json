@@ -1,0 +1,11 @@
+[
+    {
+        "ID": "1",
+        "Pregunta": "Una simple Pregunta",
+        "Respuesta": "Respuesta Correcta",
+        "Inc1": "Incorrecta 1",
+        "Inc2": "Incorrecta 2",
+        "Inc3": "Incorrecta 3",
+        "Materia": "POO"
+    }
+]

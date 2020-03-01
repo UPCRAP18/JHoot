@@ -1,0 +1,9 @@
+[
+    {
+        "Nombre": "Juego Basico POO",
+        "Tiempo de pregunta": 10,
+        "Puntaje base por pregunta": 1000,
+        "Preguntas": 10,
+        "Categoria": "POO"
+    }
+]
