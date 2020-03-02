@@ -4,7 +4,7 @@ public class Jugador extends Persona {
     private String nickName;
     private int puntaje;
     
-    Jugador(String name, String apellidos, String nickname){
+    public Jugador(String name, String apellidos, String nickname){
         super(name, apellidos);
         this.nickName = nickname;
         this.puntaje = 0;

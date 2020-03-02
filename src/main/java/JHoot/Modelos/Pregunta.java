@@ -6,7 +6,7 @@ public class Pregunta {
         Inc1, Inc2, Inc3,
         Materia;
 
-    Pregunta(String id, String pregunta, String respuesta, String inc1, String inc2, String inc3, String materia){
+    public Pregunta(String id, String pregunta, String respuesta, String inc1, String inc2, String inc3, String materia){
         this.ID = id;
         this.Pregunta = pregunta;
         this.Respuesta = respuesta;
